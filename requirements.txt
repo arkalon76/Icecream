@@ -1,0 +1,6 @@
+pymongo
+xxhash
+pymediainfo
+guessit
+colored
+imdbpie
